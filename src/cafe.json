@@ -1,0 +1,29 @@
+{
+  "name": "Nukkad Roasters",
+  "tagline": "Good Coffee, Great Moments",
+  "intro": "Small-batch beans, kulhad chai and fresh bakes. Order from your phone and pick up at the counter.",
+  "whatsapp": "910000000000",
+  "address": "Shop 4, B Lane, Baner, Pune 411045",
+  "mapsUrl": "https://maps.google.com/?q=Baner+Pune",
+  "hoursText": "Mon – Sun: 8:00 AM – 11:00 PM",
+  "openHour": 8,
+  "closeHour": 23,
+  "largeExtra": 30,
+  "heroImage": "/images/hero.jpg",
+  "visitImages": ["/images/image-2.jpg", "/images/image-3.jpg", "/images/image-4.jpg"],
+  "categories": ["All", "Coffee", "Non-coffee", "Food", "Snack", "Dessert"],
+  "menu": [
+    { "name": "Cappuccino", "desc": "Double shot with silky steamed milk", "price": 140, "category": "Coffee", "hasSize": true, "image": "/images/cappuccino.jpg" },
+    { "name": "Filter Kaapi", "desc": "South Indian style, strong and frothy", "price": 90, "category": "Coffee", "hasSize": true, "image": "/images/filter-kaapi.jpg" },
+    { "name": "Cold Brew", "desc": "Steeped 18 hours, served over ice", "price": 160, "category": "Coffee", "hasSize": true, "image": "/images/cold-brew.jpg" },
+    { "name": "Jaggery Latte", "desc": "Espresso with jaggery syrup", "price": 170, "category": "Coffee", "hasSize": true, "image": "/images/jaggery-latte.jpg" },
+    { "name": "Kulhad Masala Chai", "desc": "Served in a clay cup", "price": 70, "category": "Non-coffee", "hasSize": true, "image": "/images/kulhad-chai.jpg" },
+    { "name": "Irani Chai", "desc": "Slow-brewed with milk cream", "price": 90, "category": "Non-coffee", "hasSize": true, "image": "/images/irani-chai.jpg" },
+    { "name": "Lemon Iced Tea", "desc": "Fresh mint, lightly sweet", "price": 120, "category": "Non-coffee", "hasSize": true, "image": "/images/iced-tea.jpg" },
+    { "name": "Masala Omelette Pav", "desc": "Two eggs, green chilli, onion", "price": 130, "category": "Food", "hasSize": false, "image": "/images/omelette-pav.jpg" },
+    { "name": "Paneer Tikka Sandwich", "desc": "Grilled, with mint chutney", "price": 180, "category": "Food", "hasSize": false, "image": "/images/paneer-sandwich.jpg" },
+    { "name": "Bun Maska", "desc": "Toasted pav, salted butter", "price": 80, "category": "Snack", "hasSize": false, "image": "/images/bun-maska.jpg" },
+    { "name": "Peri Peri Fries", "desc": "Crisp, with a spicy dip", "price": 110, "category": "Snack", "hasSize": false, "image": "/images/fries.jpg" },
+    { "name": "Walnut Brownie", "desc": "Baked in-house daily", "price": 120, "category": "Dessert", "hasSize": false, "image": "/images/brownie.jpg" }
+  ]
+}
